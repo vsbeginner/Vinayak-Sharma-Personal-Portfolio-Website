@@ -223,6 +223,9 @@ Possible enhancements for the portfolio:
 
 **Vinayak Sharma**
 
+Github
+https://github.com/vsbeginner
+
 LinkedIn
 https://www.linkedin.com/in/vinayak-sharma-24a8aa384/
 
