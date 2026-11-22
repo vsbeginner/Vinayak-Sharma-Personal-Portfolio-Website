@@ -168,8 +168,56 @@ vinayak-sharma-portfolio
 ├── assets              # Images and project screenshots
 └── README.md           # Project documentation
 ```
-# Project Demo 
-https://github.com/vsbeginner/Vinayak-Sharma-Personal-Portfolio-Website/raw/main/Portfolio%20Demo.mp4
+# 🎥 Project Video Walkthrough
+
+# 📸 Visual Design & UI/UX Gallery
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th colspan="2" align="center">🎬 Interactive Video Demonstration & Live Flow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" align="center" valign="middle">
+        <video src="Portfolio%20Demo.mp4" width="90%" controls></video><br>
+        <sub><b>Video Walkthrough:</b> Interactive portfolio demonstration, dynamic navigation, 3D interactive skill sphere, and verified project showcases.</sub><br><br>
+        <a href="https://github.com/vsbeginner/Vinayak-Sharma-Personal-Portfolio-Website/raw/main/Portfolio%20Demo.mp4">
+          <img src="https://img.shields.io/badge/Download%20Direct%20MP4-Portfolio%20Demo-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Direct MP4 Download" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th width="50%" align="center"><b>About & Hero Profile Section</b></th>
+      <th width="50%" align="center"><b>Interactive Skills & Architecture</b></th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/images/about.jpg" alt="About Section UI" width="95%"><br>
+        <sub><b>About Me UI:</b> Personal branding, career philosophy, and background.</sub>
+      </td>
+      <td align="center">
+        <img src="assets/images/skills-illustration.jpg" alt="Technical Skills Visualization" width="95%"><br>
+        <sub><b>Skills Matrix:</b> Multi-disciplinary technical proficiencies across frontend, backend, and AI.</sub>
+      </td>
+    </tr>
+    <tr>
+      <th width="50%" align="center"><b>Featured Project: Nature Grid Layout</b></th>
+      <th width="50%" align="center"><b>Featured Project: Weather Forecasting App</b></th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/images/grid-layout.jpg" alt="Grid Layout Project" width="95%"><br>
+        <sub><b>Grid Project Card:</b> Responsive CSS Grid architecture and fluid media cards.</sub>
+      </td>
+      <td align="center">
+        <img src="assets/images/weather-app.jpg" alt="Weather Application Project" width="95%"><br>
+        <sub><b>Weather App Card:</b> Real-time API telemetry and dynamic weather dashboards.</sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
